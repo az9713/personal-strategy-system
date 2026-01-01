@@ -4,6 +4,19 @@ A markdown-based personal strategy system that uses AI as a **Cognitive Decoupli
 
 ---
 
+## Support the Original Creator
+
+> **This project is inspired by Evan Armstrong's brilliant article [New Year, New AI, New Me](https://substack.com/@evanarmstrong/p-183070315).**
+>
+> If you find this system valuable, please:
+> 1. **[Read the original article](https://substack.com/@evanarmstrong/p-183070315)** - it explains the psychology and philosophy behind this approach
+> 2. **[Subscribe to The Leverage](https://www.theleverage.ai/)** - Evan's newsletter on AI, business, and strategy
+> 3. **Share his work** - help others discover the source material
+>
+> This open-source implementation exists to make the system accessible, not to replace the insights in the original article.
+
+---
+
 ## Documentation
 
 | Document | Description |

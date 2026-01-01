@@ -2,6 +2,8 @@
 
 Get started with the Personal Strategy System in 5 minutes, plus 10 real-world use cases to try.
 
+> **Before you begin:** This system is based on Evan Armstrong's article [New Year, New AI, New Me](https://substack.com/@evanarmstrong/p-183070315). We encourage you to [read the original article](https://substack.com/@evanarmstrong/p-183070315) and [subscribe to The Leverage](https://www.theleverage.ai/) to support the creator and understand the philosophy behind this approach.
+
 ---
 
 ## 5-Minute Quick Start

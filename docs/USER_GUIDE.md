@@ -4,6 +4,8 @@ A complete guide to using the Personal Strategy System for achieving your goals.
 
 **No technical experience required.** This guide assumes you've never used AI for goal-setting before.
 
+> **Credit where it's due:** This system is inspired by Evan Armstrong's article [New Year, New AI, New Me](https://substack.com/@evanarmstrong/p-183070315). Please [read the original article](https://substack.com/@evanarmstrong/p-183070315) for the psychology and philosophy behind this approach, and consider [subscribing to The Leverage](https://www.theleverage.ai/) to support the creator.
+
 ---
 
 ## Table of Contents
